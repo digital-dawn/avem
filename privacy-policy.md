@@ -1,6 +1,6 @@
 # Privacy Policy
 This SERVICE is provided by Digital Dawn, LLC at no cost and is intended for use as is.
-This page is used to inform website visitors regarding our policies with the collection, use, and
+This page is used to inform visitors regarding our policies with the collection, use, and
 disclosure of Personal Information if anyone decided to use our Service.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation
@@ -8,21 +8,36 @@ to this policy. The Personal Information that we collect is used for providing a
 Service. We will not use or share your information with anyone except as described
 in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible
-at Avem unless otherwise defined in this Privacy Policy.
+This document is part of Avem's Terms of Service and by using Avem, you agree to the terms of this Privacy Policy and the Terms of Service. Please read the Terms of Service in their entirety, and refer to those for definitions and contacts.
 
 ## Information Collection and Use
 For a better experience, while using our Service, we may require you to provide us with certain
-personally identifiable information, including but not limited to Contacts permission, Camera permission, Precise location permission (continuous), Sensors permission, Motion sensors permission, Facebook Authentication, Google Authentication. The information that we request will be retained by us and used as described in this privacy policy.
+personally identifiable information, including but not limited to contact information, contacts permission, precise location permission (continuous), and sensors permission. The information that we request will be retained by us and used as described in this privacy policy.
+
 The app does use third party services that may collect information used to identify you.
 
-Link to privacy policy of third party service providers used by the app
+We only use your personal information to provide you the Avem services or to communicate with you about the services. With respect to any information you may choose to share with Avem, we take the privacy and confidentiality of such information seriously.
+ 
+Avem is operated from the United States. If you are using the services from outside the U.S., you agree to any processing of any personal information you provide us according to this policy.
 
-* [Google Play Services](https://www.google.com/policies/privacy/)
+Avem may contact you, by email or other means. For example, Avem may send you promotional emails relating to Avem or other third parties Avem feels you would be interested in, or communicate with you about your use of the Avem services. Avem may also use technology to alert us via a confirmation email when you open an email from us. If you do not want to receive email from Avem, please opt out of receiving emails at the bottom of any Avem emails.
+
+## Sharing of Data 
+We do not share personal information you have provided to us without your consent, unless:
+
+ - doing so is appropriate to carry out your own request;
+ - we believe it's needed to enforce our Terms of Service, or that is legally required;
+ - we believe it's needed to detect, prevent or address fraud, security or technical issues;
+ - otherwise protect our property, legal rights, or that of others.
+
+We don't share your personal information with third parties. Only aggregated, anonymized data is periodically transmitted to external services to help us improve Avem services.
+
+We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share personal information with our Agents in order to provide products or services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.
+
+We may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your personal information as set forth in this policy.
 
 ## Log Data
-We want to inform you that whenever you use our Service, in a case of an
-error in the app we collect data and information (through third party products) on your phone
+We want to inform you that whenever you use our Service, we collect data and information (through third party products) on your phone
 called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address,
 device name, operating system version, the configuration of the app when utilizing our Service,
 the time and date of your use of the Service, and other statistics.
@@ -75,6 +90,6 @@ this page.
 
 ## Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact
-us.
+us at support@avem.io.
 
 This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
