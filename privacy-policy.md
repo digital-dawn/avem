@@ -43,13 +43,10 @@ device name, operating system version, the configuration of the app when utilizi
 the time and date of your use of the Service, and other statistics.
 
 ## Cookies
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These
-are sent to your browser from the website that you visit and are stored on your device internal memory.
+Cookies are files with small amounts of data that are commonly used as an anonymous unique identifier. These
+are sent to your browser from the website you visit and are stored on your device's internal memory.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries
-that use “cookies” to collection information and to improve their services. You have the option to either
-accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to
-refuse our cookies, you may not be able to use some portions of this Service.
+This Service and third party code & libraries may use “cookies” to collect information to improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
 ## Service Providers
 We may employ third-party companies and individuals due to the following reasons:
