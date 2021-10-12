@@ -79,6 +79,9 @@ under 13 has provided us with personal information, we immediately delete this f
 our servers. If you are a parent or guardian and you are aware that your child has provided us with personal
 information, please contact us so that we will be able to do necessary actions.
 
+## Data Deletion Requests
+If you would like to request for you information to be removed from our systems, please send an email to support@avem.io.
+
 ## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review
 this page periodically for any changes. We will notify you of any changes by posting
