@@ -80,7 +80,7 @@ our servers. If you are a parent or guardian and you are aware that your child h
 information, please contact us so that we will be able to do necessary actions.
 
 ## Data Deletion Requests
-If you would like to request for you information to be removed from our systems, please send an email to support@avem.io.
+If you would like to request for your information to be deleted/erased from our systems, please send an email to support@avem.io.
 
 ## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review
