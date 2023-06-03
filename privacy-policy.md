@@ -14,6 +14,8 @@ This document is part of Avem's Terms of Service and by using Avem, you agree to
 For a better experience, while using our Service, we may require you to provide us with certain
 personally identifiable information, including but not limited to contact information, contacts permission, precise location permission (continuous), and sensors permission. The information that we request will be retained by us and used as described in this privacy policy.
 
+The app allows you to upload images. These images may include metadata that contain personal information. 
+
 The app does use third party services that may collect information used to identify you.
 
 We only use your personal information to provide you the Avem services or to communicate with you about the services. With respect to any information you may choose to share with Avem, we take the privacy and confidentiality of such information seriously.
